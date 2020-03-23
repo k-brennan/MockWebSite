@@ -1,0 +1,39 @@
+#bText{
+	color:blue;
+}
+.leftside{
+	padding:0%;
+}
+.dogpic{
+	width:40%;
+	float: right;
+	padding:0%;
+}
+.border_bottom{
+	margin-bottom:6%;
+	border-collapse:collapse;
+  	border-bottom:1pt solid grey;
+  	padding:6% 0% 6% 0%;
+}
+tr{
+	margin-bottom: 6%;
+}
+form{
+	padding:2% 0% 2% 0%;
+}
+input{
+	border-radius: 3px;
+}
+button{
+	margin-bottom:10%;
+	background-color: white;
+	border-radius: 3px;
+	padding-top:2px;
+	padding-bottom: 2px;
+}
+button:HOVER{
+	background-color: grey;
+	border-radius: 3px;
+	padding-top:2px;
+	padding-bottom: 2px;
+}

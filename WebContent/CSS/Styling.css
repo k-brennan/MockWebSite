@@ -1,0 +1,21 @@
+h1.headings{
+	color:navy;
+	text-decoration: blink;
+	text-align:center;
+	font-family: monospace;
+}
+
+.para{
+	color:navy;
+	font-family: monospace;
+	text-align: center;
+}
+p.para:hover{
+	color:yellow;
+	font-family:sans-serif;
+	background-color: red;
+	text-shadow: orange;
+}
+.background{
+	background-color: #e90a42;
+}
